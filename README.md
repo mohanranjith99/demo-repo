@@ -1,3 +1,4 @@
-# New Read Me File
+# New ReadMe File
 
-SOme content provided here
+
+Some content provided here
